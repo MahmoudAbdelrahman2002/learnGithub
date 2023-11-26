@@ -1,4 +1,5 @@
 void main()
 {
-int x=10;	
+
+int s=10;
 }
